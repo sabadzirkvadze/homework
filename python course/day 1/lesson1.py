@@ -1,0 +1,16 @@
+name= "guga"
+print(name)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
